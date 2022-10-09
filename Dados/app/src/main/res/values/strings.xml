@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dados</string>
+    <string name="girar_dado">Girar Dado</string>
+    <string name="todo">TODO</string>
+</resources>
