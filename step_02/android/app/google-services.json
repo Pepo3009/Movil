@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98191629307",
+    "project_id": "fir-flutter-codelab-30c46",
+    "storage_bucket": "fir-flutter-codelab-30c46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98191629307:android:4829770437c4028ba0c95e",
+        "android_client_info": {
+          "package_name": "com.tarea.firebaseflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98191629307-m6502kg41i6b9k0dlre9d970bem7118h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5KgveahWIXsLTW8yuU6mdjeA0Me86_TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98191629307-m6502kg41i6b9k0dlre9d970bem7118h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
